@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-size: 50px;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    margin-bottom: -20px;
+}
+
+button{
+    font-size: 200%;
+    margin: 50px 25px;
+    padding: 30px 50px;
+    border: none;
+    border-radius: 25px;
+}
+
+.show{
+    margin: 50px 0;
+}
+
+.input{
+    border-bottom: 5px solid black;
+    padding-bottom: 10px;  
+}
+
+.win, .lost, .tie{
+    margin: 50px 35px;
+}
